@@ -26,7 +26,7 @@ export default function Home() {
           </p>
           <div className="flex text-[#9CA3AF] items-center justify-evenly gap-x-4 mt-6">
             <a
-              href="https://drive.google.com/file/d/1tZEiUzDpajG2lzo3VFPDkdggtEOasjxz/view?usp=sharing"
+              href="https://drive.google.com/file/d/1rpkbp_cAssJecfadTTha9NPaiohfEm0g/view?usp=sharing"
               download
               className="px-4 py-1 border flex items-center gap-x-2 text-white border-white rounded-md hover:bg-white hover:text-black"
             >
