@@ -47,14 +47,8 @@ cd portfolio-main
 Share
 
 
-You said:
-ek portfolio ki read.me file banani h jiske andr sari information deni hai starting me project deploy kro and phir dependencies install krne k liye npm install krna uske bad server par jakr npm install krna dependencies install ho chuki hai ab npm run dev se ho jayega
-ChatGPT said:
-ChatGPT
-Yeh raha ek sample README.md file ka structure jo aapke portfolio project ke liye suit karega:
 
-markdown
-Copy code
+
 # Portfolio Project
 
 This is a responsive portfolio website created using modern web development tools. Follow the steps below to set up and run the project on your local machine.
